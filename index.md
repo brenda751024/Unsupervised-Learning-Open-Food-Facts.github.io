@@ -5,9 +5,12 @@ Open Food Facts is a non-profit association of volunteers. 5000+ contributors ha
 ## Summary
 
 1. Four clusters were selected based on **KElbow Visualizer** and verified with **Silhouette Visualizer**.
-<img src="https://github.com/brenda751024/assets/blob/master/KElbow.png" width="400">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/brenda751024/assets/blob/master/KElbow.png" width="400">  |  <img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="400">
+
 ![KELbow]({{ "/assets/blob/master/KElbow.png" | absolute_url }})
-<img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="400">
+
 2. Carb and Fat are major features that determine the clustering. The clusters are very clear on X/Y face of 3D scatter plot, but not clear on Y/Z or X/Y face.
 <img src="https://github.com/brenda751024/assets/blob/master/3D_XY.png" width="300">
 <img src="https://github.com/brenda751024/assets/blob/master/3D_YZ.png" width="300">
