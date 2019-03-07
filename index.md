@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Project Brief
 
-You can use the [editor on GitHub](https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open Food Facts is a non-profit association of volunteers. 5000+ contributors have added 600 000+ products from 150 countries using phone app. In this project, I will use unsupervised learning to cluster food based on different features and identify the information from the results.
 
 ### Markdown
 
