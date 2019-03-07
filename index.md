@@ -1,35 +1,11 @@
 ## Project Brief
 
-Open Food Facts is a non-profit association of volunteers. 5000+ contributors have added 600 000+ products from 150 countries using phone app. In this project, I will use unsupervised learning to cluster food based on different features and identify the information from the results.
+Open Food Facts is a non-profit association of volunteers. 5000+ contributors have added 600 000+ products from 150 countries using phone app. In this project, I will use unsupervised learning to cluster 44304 food datapoints based on 5 selected features- fat, carbohydrates, proteins,	salt, energy,and identify the information from the results.
 
-### Markdown
+## Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Four clusters were selected based on **KElbow Visualizer** and verified with **Silhouette Visualizer**.
+2. Carb and Fat are major features that determine the clustering. The clusters are very clear on X/Y face of 3D scatter plot, but not clear on Y/Z or X/Y face.
+2. The clusters are consistent with food pyramid. Cluster 3 is lowest layer of the pyramid and then cluster 1, cluster 2 and cluster 0. The consumptions shown in Silhouette Visualizer are also consistent with large amount on cluster 3 and 1. 
+3. People are trying to eat healthily because “natural” and “organic “pop up many times.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
