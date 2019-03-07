@@ -6,17 +6,17 @@ Open Food Facts is a non-profit association of volunteers. 5000+ contributors ha
 
 1.Four clusters were selected based on **KElbow Visualizer** and verified with **Silhouette Visualizer**.
 
-<img src="https://github.com/brenda751024/assets/blob/master/KElbow.png" width="400"> <img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="390">
+<img src="https://github.com/brenda751024/assets/blob/master/KElbow.png" width="200"> <img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="190">
 
 2.Carb and Fat are major features that determine the clustering. The clusters are very clear on X/Y face of 3D scatter plot, but not clear on Y/Z or X/Y face.
 
-<img src="https://github.com/brenda751024/assets/blob/master/3D_XY.png" width="300"><img src="https://github.com/brenda751024/assets/blob/master/3D_YZ.png" width="300">
+<img src="https://github.com/brenda751024/assets/blob/master/3D_XY.png" width="200"><img src="https://github.com/brenda751024/assets/blob/master/3D_YZ.png" width="200">
 
 3.The clusters are consistent with food pyramid. Cluster 3 is lowest layer of the pyramid and then cluster 1, cluster 2 and cluster 0. The consumptions shown in Silhouette Visualizer are also consistent with large amount on cluster 3 and 1. 
 
 4.People are trying to eat healthily because “natural” and “organic “pop up many times.
 
 <p align="center">
-<img src="https://github.com/brenda751024/assets/blob/master/food%20pyramind.png" width="400">
+<img src="https://github.com/brenda751024/assets/blob/master/food%20pyramind.png" width="200">
 <p align="center">
-<img src="https://github.com/brenda751024/assets/blob/master/WordCloud.png" width="600">
+<img src="https://github.com/brenda751024/assets/blob/master/WordCloud.png" width="200">
