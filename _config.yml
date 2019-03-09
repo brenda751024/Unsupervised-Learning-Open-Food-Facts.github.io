@@ -1,6 +1,4 @@
 title: Unsupervised Learning
 Open Food Facts
-logo:assets/openfoodfacts.jpg
-show_downloads: true
-google_analytics:
+logo:/assets/openfoodfacts.jpg
 theme: jekyll-theme-minimal
