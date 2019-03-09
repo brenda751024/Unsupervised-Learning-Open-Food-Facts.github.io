@@ -7,7 +7,8 @@ Open Food Facts is a non-profit association of volunteers. 5000+ contributors ha
 1.Four clusters were selected based on **KElbow Visualizer** and verified with **Silhouette Visualizer**.
 
 ![KElbow](https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/blob/master/KElbow.png)
-<img src="https://github.com/brenda751024/assets/blob/master/KElbow.png" width="200"> <img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="190">
+<img src="Unsupervised-Learning-Open-Food-Facts.github.io/KElbow.png
+      " width="200"> <img src="https://github.com/brenda751024/assets/blob/master/Silhouette.png" width="190">
 
 2.Carb and Fat are major features that determine the clustering. The clusters are very clear on X/Y face of 3D scatter plot, but not clear on Y/Z or X/Y face.
 
