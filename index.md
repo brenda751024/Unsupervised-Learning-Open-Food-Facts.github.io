@@ -10,7 +10,7 @@ Open Food Facts is a non-profit association of volunteers. 5000+ contributors ha
 
 2.Carb and Fat are major features that determine the clustering. The clusters are very clear on X/Y face of 3D scatter plot, but not clear on Y/Z or X/Y face.
 
-<img src="https://raw.githubusercontent.com/brenda751024/assets/master/3D_XY.png" width="300"><img src="https://raw.githubusercontent.com/brenda751024/assets/master/3D_XY.png" width="300">
+<img src="https://raw.githubusercontent.com/brenda751024/assets/master/3D_XY.png" width="300"><img src="https://raw.githubusercontent.com/brenda751024/assets/master/3D_YZ.png" width="300">
 
 3.The clusters are consistent with food pyramid. Cluster 3 is lowest layer of the pyramid and then cluster 1, cluster 2 and cluster 0. The consumptions shown in Silhouette Visualizer are also consistent with large amount on cluster 3 and 1. 
 
