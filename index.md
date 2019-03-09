@@ -20,4 +20,4 @@ Open Food Facts is a non-profit association of volunteers. 5000+ contributors ha
 <img src="https://raw.githubusercontent.com/brenda751024/assets/master/food%20pyramind.png" width="500">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/brenda751024/assets/master/WordCloud.png" width="200">
+<img src="https://raw.githubusercontent.com/brenda751024/assets/master/WordCloud.png" width="600">
