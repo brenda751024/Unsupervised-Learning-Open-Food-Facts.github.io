@@ -1,6 +1,7 @@
 ## Project Brief
 
 Open Food Facts is a non-profit association of volunteers. 5000+ contributors have added 600 000+ products from 150 countries using phone app. In this project, I will use unsupervised learning to cluster 44304 food datapoints based on 5 selected features- fat, carbohydrates, proteins,	salt, energy,and identify the information from the results.
+<img src="https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/blob/master/openfoodfacts.jpg" width="190">
 
 ## Summary
 
