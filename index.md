@@ -1,4 +1,4 @@
-<a href="https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/blob/master/Open_Food_Facts_Clustering.ipynb">
+<a href="https://colab.research.google.com/drive/1HCcUJkc476kODlQCUXgNoWriZRhl9X7o">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
