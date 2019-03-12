@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://github.com/brenda751024/Unsupervised-Learning-Open-Food-Facts.github.io/blob/master/Open_Food_Facts_Clustering.ipynb)
 
 
